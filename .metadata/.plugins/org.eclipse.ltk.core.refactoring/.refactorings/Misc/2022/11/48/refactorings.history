@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Misc&apos; to &apos;misc&apos;&#x0D;&#x0A;- Original project: &apos;Misc&apos;&#x0D;&#x0A;- Original element: &apos;Misc/src/Misc&apos;&#x0D;&#x0A;- Renamed element: &apos;Misc/src/misc&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;Misc&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Misc" name="misc" qualified="false" references="true" stamp="1669459320344" textual="false" version="1.0"/>
+</session>

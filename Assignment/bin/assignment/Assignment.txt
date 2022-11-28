@@ -1,0 +1,5 @@
+String palindrome
+sum of array elements
+armstring no
+prime no
+cunt no of vowels in a string
