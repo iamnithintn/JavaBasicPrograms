@@ -11,18 +11,13 @@ class PrimeNums{
         s.close();
 
         for (i=2; i<x; i++){
-            if (x%2==0){
+            if (x%i==0){
                 ref+=1;
                 break;
             }
         }
 
-        if (ref==0){
-            System.out.println("Prime");
-        }
-        else{
-            System.out.println("Not Prime") ;
-        }
+        System.out.println((ref>0)?"Not Prime":"Prime");
 
     }
 }
